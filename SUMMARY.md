@@ -1,10 +1,10 @@
-# Table of contents
+# 목차
 
-* [Learn Go with tests](gb-readme.md)
+* [테스트와 함께 GO 개발하기](gb-readme.md)
 
-## Go fundamentals
+## Go 기본 사항
 
-* [Install Go](install-go.md)
+* [Go 설치하기](install-go.md)
 * [Hello, World](hello-world.md)
 * [Integers](integers.md)
 * [Iteration](iteration.md)
@@ -18,9 +18,9 @@
 * [Select](select.md)
 * [Reflection](reflection.md)
 
-## Build an application
+## 어플리케이션 빌드하기
 
-* [Intro](app-intro.md)
+* [소개하기](app-intro.md)
 * [HTTP server](http-server.md)
 * [JSON, routing and embedding](json.md)
 * [IO and sorting](io.md)
